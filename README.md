@@ -1,8 +1,7 @@
 # Data-Science
 [Coursework] Data Science  
   
-Final project - Marketing Data Science(Basket Analysis & RFM Customer Analysis)  
-線上零售交易數據分析  
+Final project - Marketing Data Science(Basket Analysis & RFM Customer Analysis)    
 資料來自UCI機器學習資料庫，包含2009至2011年英國註冊的線上零售店發生的所有交易，資料分析過程如下：
 * 資料視覺化  
 * 利用關聯法則進行購物籃分析(Basket Analysis)，找出商品之間的關聯性，將商品組合，推出行銷策略以增加利潤。  
