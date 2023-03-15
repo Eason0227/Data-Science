@@ -7,4 +7,4 @@ Final project - Marketing Data Science(Basket Analysis & RFM Customer Analysis)
 * 資料視覺化  
 * 利用關聯法則進行購物籃分析(Basket Analysis)，找出商品之間的關聯性，將商品組合，推出行銷策略以增加利潤。  
 * 使用RFM Analysis，RFM為顧客關係管理(CRM) 中的顧客分眾模型，其中包含了Recency（上次消費的日期）、Frequency（消費頻率）、Monetary（消費金額）。  
-* 本專案使用非監督式學習中的K-means分群演算法進行RFM分析，透過三種消費行為分析顧客的特性，並針對不同的特性進行行銷策略  
+* 使用非監督式學習中的K-means分群演算法進行RFM分析，透過三種消費行為分析顧客的特性，並針對不同的特性進行行銷策略  
